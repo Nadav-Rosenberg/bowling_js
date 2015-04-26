@@ -1,0 +1,15 @@
+Bowling Game Scoring - JAVA
+
+After making a Ruby Bowling Game Scoring Application, I will write the same programe in JS, using Jasmine as a testing tool. 
+
+As a bonus, I will work on:
+- web interface
+- basinc styling 
+- Heroku deployment
+
+Setting a JS project: 
+- copyoing Jasmine and SpecRunner
+--> cp -r ~/Downloads/jasmine-standalone-2.0.2/lib .
+--> cp -r ~/Downloads/jasmine-standalone-2.0.2/SpecRunner.html .
+- adding spec and src directories
+- writing the first test
